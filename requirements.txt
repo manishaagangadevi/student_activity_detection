@@ -1,0 +1,12 @@
+opencv-python
+numpy
+tensorflow
+torch
+torchvision
+matplotlib
+mediapipe
+ultralytics
+twilio
+python-dotenv
+fpdf
+smtplib3
