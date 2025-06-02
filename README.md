@@ -12,8 +12,6 @@ This project is an AI-based solution that automatically monitors student behavio
 - PDF report generation using FPDF
 - Easy integration with smart classroom setups
 
----
-
 ## Technologies Used
 
 - **YOLOv8** – Object detection for mobile usage & inattentiveness
